@@ -13,7 +13,7 @@ and then made changes in artfies located in arts folder, I have given a plain ar
 and change the artfile in config.py, it is set to default change it to plainart or plainartwithstars, where you made the changes and added colors.  
 Follow the color codes to add colors.    
 
-you can change the speed of art in config.py by reducing the speed value, you increase the speed of art. Same for coding speed to, 0.001 is defualt value 
+you can change the speed of art in config.py by reducing the speed value, you increase the speed of art. Same for coding speed too, 0.001 is the defualt value  
 
 at last run the     
 
@@ -31,6 +31,8 @@ Open the terminal. copy and paste the command in your terminal.
  **_cd Birthday-Wish-using-Python_**
  
  and then install the requirements as I said before and follow the that procedure because same procedure from here....
+ 
+ 
   <h5>Disclaimer:-</h5>
         See the alphabets.txt, If u want make any changes in text in the art like want to change the name, here i put my friend name so edit into your friend name, I made all the sample alphabets there ,so you can follow from that.
 
