@@ -19,6 +19,23 @@ at last run the
 
 **_python3 main.py_**        
 
-in the these location terminal to see the art....    
+in the these location terminal to see the art....  
 
+<h1>There is another method to run</h1>
+Open the terminal. copy and paste the command in your terminal.
+
+ **_git clone https://github.com/LakshmiDeepak9653/Birthday-Wish-using-Python.git_**
+ 
+ and then run these next command
+ 
+ **_cd Birthday-Wish-using-Python_**
+ 
+ and then install the requirements as I said before and follow the that procedure because same procedure from here....
+  <h5>Disclaimer:-</h5>
+        See the alphabets.txt, If u want make any changes in text in the art like want to change the name, here i put my friend name so edit into your friend name, I made all the sample alphabets there ,so you can follow from that.
+
+
+> Bye
+> 
 >Thank you 
+<h4>Give me a Star 🌟,If you impressed with my work</h4>
