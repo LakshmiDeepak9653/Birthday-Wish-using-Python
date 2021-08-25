@@ -34,7 +34,7 @@ Open the terminal. copy and paste the command in your terminal.
  
  
   <h5>Disclaimer:-</h5>
-        See the alphabets.txt, If u want make any changes in text in the art like want to change the name, here i put my friend name so edit into your friend name, I made all the sample alphabets there ,so you can follow from that.
+        See the HELP.txt, If u want make any changes in text in the art like want to change the name, here i put my friend name so edit into your friend name, I made all the sample alphabets there ,so you can follow from that.
 
 
 > Bye
