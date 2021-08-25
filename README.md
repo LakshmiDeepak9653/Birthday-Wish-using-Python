@@ -1,6 +1,6 @@
 # Birthday-Wish-using-Python
 <h1>This is an python wrapper !!!</h1> 
-Made by *Lakshmi deepak*  This wrapper uses for birthday wishes to your friend in a different way using python.  
+Made by *Lakshmi deepak* Use this wrapper for birthday wishes to your friend in a different way using python.  
 Firstly, what you have to do is? You have to install the required packages, don't worry about the code and blabla things.
 I made it simple for you. 
 
