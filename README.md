@@ -4,7 +4,7 @@ Made by *Lakshmi deepak* Use this wrapper for birthday wishes to your friend in 
 Firstly, what you have to do is? You have to install the required packages, don't worry about the code and blabla things.
 I made it simple for you.
 
-<h5>watch the preview video before doing watch it by video or through youtube link in link.txt</h5>
+<h5>watch the preview video before doing watch it by video or through youtube link https://youtu.be/smlSfCLHlS0 </h5>
 
 First download this wrapper, extract it, open the folder. Open the terminal in these location. and run    
 
