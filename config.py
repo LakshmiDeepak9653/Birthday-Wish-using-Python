@@ -1,5 +1,5 @@
 # Specify which file (without .py extension) in the arts folder should be used
-artFile = "art3"
+artFile = "muneera"
 # Speed of art
 speed = 0.0015
 # Print code in the beginning
