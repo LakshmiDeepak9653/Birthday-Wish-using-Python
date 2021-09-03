@@ -7,7 +7,7 @@ I made it simple for you.
 <h5>watch the preview video before doing watch it by video or through youtube link https://youtu.be/smlSfCLHlS0 </h5>
 
 First download this wrapper, extract it, open the folder. Open the terminal in these location. and run
-# In case you are using your mobile install Termux app and follow the method 2 named as 👉 There is another method to run
+# In case you are using your mobile install Termux app and follow the method 2 named as 👉 There is another method to run.  Scroll down to see
 
 **_pip install -r requirements.txt_**   
 
