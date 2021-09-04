@@ -11,7 +11,7 @@ First download this wrapper, extract it, open the folder. Open the terminal in t
 
 **_pip install -r requirements.txt_**   
 
-and don't forget to connect the internet to your lap.....  
+and don't forget to connect the internet to your lap (this will take a while).....  
 and then made changes in artfies located in arts folder, I have given a plain art for you and plainart with extra decorations too add the colors to your wish.    
 and change the artfile in config.py, it is set to default change it to plainart or plainartwithstars, where you made the changes and added colors.  
 Follow the color codes to add colors.    
